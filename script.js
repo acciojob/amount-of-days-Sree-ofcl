@@ -9,4 +9,4 @@ function daysOfAYear(num) {
 	}
 }
 daysOfAYear(1990)
-daysOfAYear(2024)
+console.log(daysOfAYear(num));
