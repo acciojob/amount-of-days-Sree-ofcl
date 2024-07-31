@@ -8,5 +8,5 @@ function daysOfAYear(num) {
 		return 365;
 	}
 }
-const num= alert("Enter a Year")
+const num= prompt("Enter a Year")
 daysOfAYear(num)
